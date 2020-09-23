@@ -19,8 +19,7 @@ public class app {
         personInfo.setLastName(lastName);
         personInfo.setSalary(salary);
 
-        //File employeesFile;
-        //employeesFile = new File("./sprint2/writtingToFiles.csv");
+       
         File employeesFile = new File("writtingToFiles.csv");
         try {
 
